@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1685112036 source:c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\functionsdef.cpp
+	<iostream>
+	"Class.hpp"
+
+1685126283 source:c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\main.cpp
+	<iostream>
+	<time.h>
+	"Class.hpp"
+
+1685033928 source:c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\classdef.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Class.hpp"
+
+1685121373 c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\class.hpp
+	<iostream>
+
+1685037393 c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\function.hpp
+	<iostream>
+
+1685034128 c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\player.hpp
+	<iostream>
+	"Class.hpp"
+
+1685034099 source:c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\playerdef.cpp
+	<iostream>
+	"Class.hpp"
+
+1685126283 source:c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\fight.cpp
+	<iostream>
+	<time.h>
+	"Class.hpp"
+	"FightFunctions.hpp"
+
+1685126283 source:c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\player.cpp
+	<iostream>
+	"Class.hpp"
+
+1685126283 source:c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\enemy.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Class.hpp"
+
+1685037008 c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\fightfunctions.cpp
+	<iostream>
+	<time.h>
+	"Class.hpp"
+
+1685126283 source:c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\fightfunctions.cpp
+	<iostream>
+	<time.h>
+	"FightFunctions.hpp"
+
+1685114343 c:\users\emilka\desktop\studia\bioinformatyka\Æwiczenia\game oop\fightfunctions.hpp
+	<iostream>
+
